@@ -1,0 +1,2 @@
+pizza: 100 INR
+burger: 30 INR

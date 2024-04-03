@@ -1,0 +1,14 @@
+pizza 2
+burger 5
+pizza 1
+pizza 4
+burger 5
+pizza 2
+burger 3
+pizza 2
+burger 3
+pizza 2
+burger 1
+pizza 1
+burger 1
+pizza 1
